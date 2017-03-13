@@ -1,0 +1,10 @@
+https://github.com/PaytmLabs/MobileChallenge
+
+http://api.fixer.io/latest?base=CAD
+
+http://fixer.io/
+
+http://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html
+
+http://api.fixer.io/latest?symbols=USD,GBP
+
